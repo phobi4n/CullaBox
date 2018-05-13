@@ -33,7 +33,6 @@ window.active.title.separator.color: #000000
 window.active.title.bg: Gradient vertical raised
 window.active.title.bg.color: TEMPLATE2
 window.active.title.bg.colorTo: TEMPLATE4
-window.active.title.bg.highlight: 96
 window.active.label.bg: Parentrelative
 window.active.label.text.color: #f9f9f9
 window.active.client.color: #000000
