@@ -39,6 +39,7 @@ fi
 
 echo -e "${CYAN}Copying executables to $BINDIR.${RESET}"
 cp CullaBox.py $BINDIR
+chmod 755 $BINDIR/CullaBox.py
 mv getbg $BINDIR
 
 ASSETS=$HOME/.local/share/CullaBox
