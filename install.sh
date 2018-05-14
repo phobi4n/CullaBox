@@ -48,7 +48,7 @@ if [ ! -d $ASSETS ]; then
 fi
 
 echo -e "${CYAN}Copying CullaBox assets base.${RESET}"
-cp themerc tint2rc $ASSETS
+cp -vf themerc tint2rc $ASSETS
 
 OBOXTHEME=$HOME/.themes
 

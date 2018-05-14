@@ -101,7 +101,7 @@ border_color_pressed = #eaeaea 44
 #-------------------------------------
 # Panel
 panel_items = L:TSC
-panel_size = 100% 32
+panel_size = 100% 28
 panel_margin = 0 0
 panel_padding = 0 0 0
 panel_background_id = 1
@@ -199,8 +199,8 @@ time1_format = %a %d %b %l:%M %p
 time2_format =
 time1_timezone = 
 time2_timezone = 
-time1_font = IBM Plex Sans 11
-time2_font = IBM Plex Sans 7
+time1_font = Nunito SemiBold 9
+time2_font = 
 clock_font_color = #ffffff 100
 clock_padding = 8 0
 clock_background_id = 7

@@ -221,7 +221,7 @@ s = 1.0
 
 for i in colors_colorgram:
     h_tmp, l_tmp, s_tmp = colorsys.rgb_to_hls(i.rgb.r/255, i.rgb.g/255, i.rgb.b/255)
-    print(l_tmp)
+    
     if l_tmp <= l:
         h = h_tmp
         l = l_tmp
